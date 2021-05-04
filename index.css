@@ -1,0 +1,94 @@
+*{
+margin: 0;
+padding: 0;
+}
+
+body{
+    background-image: url(https://img.freepik.com/free-vector/yellow-background-with-halftone-lines-design_1017-30148.jpg?size=626&ext=jpg&ga=GA1.2.1358800006.1620086400) ;
+    background-size: cover;
+    /* background-image: linear-gradient(to right, #f9d423 0%, #ff4e50 100%);*/
+    /* background-image: linear-gradient(to right, #eea2a2 0%, #bbc1bf 19%, #57c6e1 42%, #b49fda 79%, #7ac5d8 100%); */
+    
+}
+
+.container{
+    
+color: white;
+padding: 25px;
+position: absolute;
+top: 30%;
+left: 36%;
+border: none;
+outline: none;
+border-radius: 20px;
+/* background-color: rgb(189, 146, 230); */
+background-image: linear-gradient(-225deg, #FF057C 0%, #7C64D5 48%, #4CC3FF 100%);
+/* background-image: linear-gradient(to right, #eea2a2 0%, #bbc1bf 19%, #57c6e1 42%, #b49fda 79%, #7ac5d8 100%); */
+}
+.container h1{
+    font-size: 65px;
+    font-family: 'Ubuntu', sans-serif;
+    border-bottom: 5px  solid white;
+    margin-bottom: 10%;
+}
+.img{
+    position: absolute;
+    /* border: 5px solid black; */
+    top: 2%;
+    left: 38%;
+    
+    
+    
+    
+    
+}
+.box input{
+    width: 81%;
+    left: 15%;
+    border: none;
+    outline: none;font-family: 'Ubuntu', sans-serif;
+    
+font-size: 30px;
+padding: 20px;
+padding-left: 5%;
+ margin-bottom: 5%;
+    border-radius: 24px;
+}
+.box i{
+    width: 30px;
+    font-size: 43px;
+    padding-right: 20px;
+    
+}
+.btn{
+    padding: 10px;
+    margin-left: 29%;
+    margin-top: 5%;
+    border-radius: 24px;
+    width: 250px;
+    font-size: 20px;
+    border: 5px solid rgb(0, 0, 0);
+    background-color: rgb(24, 230, 219);
+    
+}
+.btn i{
+    margin-right: 10px;
+    font-family: 'Ubuntu', sans-serif;
+}
+.checkbox{
+    margin-left: 20px;
+    margin-top: 10px;
+    font-size: 33px;
+    font-family: 'Ubuntu', sans-serif;
+    
+}
+#sign{
+    font-size: 35px;
+    margin-top: 5%;
+    margin-left: 50px;
+    font-family: 'Ubuntu', sans-serif;
+}
+.asd{
+     margin-left: 9%;
+     margin-top: 5%;
+}
